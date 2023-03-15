@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b2u4upunpsgcb"]
+
+[ext_resource type="Script" path="res://Blaster.gd" id="2_1vbva"]
+
+[node name="Blaster" type="Sprite2D"]
+centered = false
+script = ExtResource("2_1vbva")
